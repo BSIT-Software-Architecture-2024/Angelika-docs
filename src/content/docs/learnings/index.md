@@ -11,11 +11,8 @@ description: Technical and soft skills developed throughout my journey
 - Component-based architecture
 - Responsive web design
 - Progressive web apps (PWA)
-- Web accessibility (WCAG)
-- Performance optimization
 
 ### UI/UX Implementation
-- Pixel-perfect development
 - Animation and transitions
 - Cross-browser compatibility
 - Mobile-first approach
