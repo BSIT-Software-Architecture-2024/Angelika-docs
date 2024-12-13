@@ -5,7 +5,7 @@ description: Overview of ongoing projects and responsibilities
 
 # Current Projects
 
-## Project 1: Dccp Website
+## Project 1: DCCP Website
 
 ### Overview
 A modern, responsive website for Data Center College of the Philippines - Baguio City built with Astro and TailwindCSS.
@@ -31,7 +31,7 @@ A modern, responsive website for Data Center College of the Philippines - Baguio
   - Git for version control
   - Figma for design collaboration
 
-## Project 2: Dccp portal Mobile Client
+## Project 2: DCCP Portal Mobile Client
 
 A Flutter based Mobile Client for the Data Center College of the Philippines - Baguio City portal.
 

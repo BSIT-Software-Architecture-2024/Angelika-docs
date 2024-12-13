@@ -62,7 +62,7 @@ description: Key features and improvements I've contributed to the project
 ## Key Contributors
 - ゆか（Yuka）San
 - Eric Al
-- angelika
+- Angelika
 
 ## Notable Features
 1. Theme Support
